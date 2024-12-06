@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "598145398167",
+      "project_id": "mercy-2fb81",
+      "storage_bucket": "mercy-2fb81.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:598145398167:android:dd94acb107791a473340d2",
+          "android_client_info": {
+            "package_name": "com.example.mercy"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBNrvziYe-ZRF8dnHqGxtfj1nWvVsFKCgA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
